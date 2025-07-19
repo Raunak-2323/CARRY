@@ -1,5 +1,5 @@
-AutoVal AI – A Machine Learning Based Car Price Prediction System
-# 🚗 Car Price Prediction using Machine Learning
+
+# AutoVal AI – A Machine Learning Based Car Price Prediction System
 
 This project predicts the **selling price of used cars** using real-world data and machine learning models.  
 It includes a complete ML pipeline — from **data cleaning** to **model building**, **evaluation**, and **saving the trained model** for future use.
